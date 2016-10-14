@@ -2,13 +2,10 @@
 class Car
 {
     private $model = '';
-    
     //__construct
     public function __construct($model = null)
     {
-        
-        $this->model = $model;
-        
+        $this->model = $model;  
     }
     
     public function getCarModel()
