@@ -5,7 +5,6 @@ class Car
     //The $model property is private, thus it can be accessed 
     // only from inside the class
     private $model;
-    
     //Public setter method
     public function setModel($model)
     {
