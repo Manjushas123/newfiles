@@ -1,5 +1,5 @@
 <?php
-$names=['manjusha','madhura','mahe',];
+$names=['manjusha','madhura','mahe'];
 require 'phpbasic.view.php';
 ?>
 
