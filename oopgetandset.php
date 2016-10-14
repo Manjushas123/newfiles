@@ -20,7 +20,7 @@ class Car
     
     public function getModel()
     {
-        return "The car model is  " . $this->model;
+        return "The car model is  ".$this->model;
     }
 }
 $mercedes = new Car();
